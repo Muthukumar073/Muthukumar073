@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muthukumar073
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning about machine learning
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning about Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
