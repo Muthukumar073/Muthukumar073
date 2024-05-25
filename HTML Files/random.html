@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Random Numbers</title>
+</head>
+<body style="background-color:Powderblue">
+<h1>Guess the Number from 1 to 10</h1>
+<input id="guessno">
+<button onclick="check()">check</button>
+<p id="result">You are wrong/Right</p>
+<p id="score">Score:10</p>
+<script>
+var guessno=document.getElementById("guessno")
+var result=document.getElementById("result")
+var randomno=Math.floor(Math.random()*10)+1
+var score=document.getElementById("score")
+var totalscore=10
+function check(){
+	var enteredno=guessno.value
+	if(enteredno==randomno){
+		console.log("Right")
+		result.textContent="Right"
+		alert("You won..")
+	}
+	else{
+		totalscore=totalscore-1
+		score.textContent="Score:"+totalscore
+		console.log("Wrong")
+		result.textContent="Wrong"
+	
+	}
+}
+
+</script>
+<body>
+</html>
