@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .cap{
+            text-transform:capitalize;
+        }
+        .but{
+            color:antiquewhite;
+            background-color: brown;
+            border-style: dashed;
+            border-radius:60px;
+        }
+    </style>
+</head>
+<body>
+  <h1 class="cap">swap two values</h1> 
+  <label>Number1:</label>
+  <input id="input1" value=8>
+  <br>
+  <br>
+  <label>Number2:</label>
+  <input id="input2" value=4> 
+  <br>
+  <br>
+  <button class="but" onclick="swap()">Swap</button>
+  <script>
+    var one=document.getElementById("input1")
+    var two=document.getElementById("input2")
+    function swap(){
+        var temp=one.value;
+        one.value=two.value;
+        two.value=temp;
+    }
+    
+    
+  </script>
+</body>
+</html>
