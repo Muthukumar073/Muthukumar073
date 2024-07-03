@@ -9,7 +9,8 @@ Book Stack Web App is a simple web application that allows users to add, view, a
 - Delete books from the list.
 
 ## Demo
-Include a screenshot or GIF of your app in action.
-![Demo](C:\Users\USER\Pictures\Screenshots)
+Include a screenshot.
+![Screenshot (120)](https://github.com/Muthukumar073/Muthukumar073/assets/136782181/51c8591c-a042-4f0d-8706-a9caf579b6f4)
+
 
 
