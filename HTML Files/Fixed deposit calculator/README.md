@@ -11,3 +11,4 @@ This project is a web-based fixed deposit calculator that helps users calculate 
 - Responsive design
 
 ## Screenshot
+![Screenshot (123)](https://github.com/user-attachments/assets/584b9d4f-686d-41a8-ad45-0f715776f49a)
