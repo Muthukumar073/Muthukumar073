@@ -9,3 +9,5 @@ This project is a web-based fixed deposit calculator that helps users calculate 
 - User-friendly interface
 - Real-time calculation of maturity amount
 - Responsive design
+
+## Screenshot
